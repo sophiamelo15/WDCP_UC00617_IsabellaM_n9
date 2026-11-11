@@ -1,16 +1,16 @@
 Cursos da Escola Técnico Profissional de Cantanhede:
 ----------------------------------------------------------
-1. Comunicação, Marketing, Relações Públicas e Publicidade
-2. Estética
-3. Gestão e Administração
-4. Desporto
-5. Apoio à Intervenção Social
-6. Eletrónica e Automação
-7. Desenvolvimento de Software
-8. Auxiliar de Saúde
-9. Cabeleireiro
-10. Sistemas de Computação e Redes
-11. Cozinha e Restauração
-12. Proteção Civil
+1. Apoio à Intervenção Social
+2. Auxiliar de Saúde
+3. Cabeleireiro
+4. Comunicação, Marketing, Relações Públicas e Publicidade
+5. Cozinha e Restauração
+6. Desenvolvimento de Software
+7. Desporto
+8. Eletrónica e Automação
+9. Estética
+10. Gestão e Administração
+11. Proteção Civil
+12. Sistemas de Computação e Redes
 
 Feito por: Isabella Melo
